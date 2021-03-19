@@ -18,3 +18,10 @@ n_cpu = psutil.cpu_count()
 print(n_cpu)
 
 
+# cpu percent
+perc_cpu = psutil.cpu_percent(interval=1)
+print(perc_cpu)
+
+# disk
+x = psutil.disk_partitions()
+print(x)
