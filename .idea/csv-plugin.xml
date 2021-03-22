@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\full_start_pyramid.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\window_power_managements.py">
           <value>
             <Attribute>
